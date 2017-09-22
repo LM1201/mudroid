@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="xmparsellib/dom4j-2.0.0-RC1.jar"/>
+	<classpathentry kind="lib" path="xmparsellib/jaxen-1.1.jar"/>
+	<classpathentry kind="lib" path="xmparsellib/org.apache.servicemix.bundles.xsdlib-2013.6.1_1.jar"/>
+	<classpathentry kind="lib" path="xmparsellib/pull-parser-2.1.10.jar"/>
+	<classpathentry kind="lib" path="xmparsellib/relaxngDatatype-1.0.jar"/>
+	<classpathentry kind="lib" path="javaparselib/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="javaparselib/tools.jar"/>
+	<classpathentry kind="lib" path="javaparselib/android.jar"/>
+	<classpathentry kind="lib" path="javaparselib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="javaparselib/openjava.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
