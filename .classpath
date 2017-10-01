@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/xml/dom4j-2.0.0-RC1.jar"/>
+	<classpathentry kind="lib" path="lib/xml/jaxen-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/xml/org.apache.servicemix.bundles.xsdlib-2013.6.1_1.jar"/>
+	<classpathentry kind="lib" path="lib/xml/pull-parser-2.1.10.jar"/>
+	<classpathentry kind="lib" path="lib/xml/relaxngDatatype-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/uilib/07b18708-83ff-332d-ad47-d54f8bb98a9a.jar"/>
+	<classpathentry kind="lib" path="lib/uilib/10140aac-7e1a-316b-9c7d-4df487e5b0b4.jar"/>
+	<classpathentry kind="lib" path="lib/uilib/2100abd6-8eb2-3b62-a216-e2a9646b8b84.jar"/>
+	<classpathentry kind="lib" path="lib/uilib/f08bc30a-f3a4-338e-9f62-2640162dd089.jar"/>
+	<classpathentry kind="lib" path="lib/uilib/substance.jar"/>
+	<classpathentry kind="lib" path="lib/javalib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/javalib/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/javalib/openjava.jar"/>
+	<classpathentry kind="lib" path="lib/javalib/tools.jar"/>
+	<classpathentry kind="lib" path="lib/androidjar/android.jar"/>
+	<classpathentry kind="lib" path="lib/androidjar/android-support-v7-appcompat.jar"/>
+	<classpathentry kind="lib" path="lib/androidjar/recyclerview-v7-24.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/androidjar/support-core-ui-24.2.0 .jar"/>
+	<classpathentry kind="lib" path="lib/androidjar/support-core-utils-24.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/androidjar/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="lib/androidjar/support-compat-24.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/muban/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/muban/commons.collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/muban/jstl.jar"/>
+	<classpathentry kind="lib" path="lib/muban/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="lib/json/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/json/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/json/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="lib/json/commons-lang3-3.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
