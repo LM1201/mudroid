@@ -6,40 +6,16 @@ Mudroid采用Java语言实现，系统代码量约为3.7万行。Mudroid对Andro
 
 **[测试结果显示DEMO](http://lm.space-time.site/index1.html)**
 
-## pdf
-**[Mudroid：面向Android应用程序的变异测试系统.pdf](http://lm.space-time.site/Mudroid：面向Android应用程序的变异测试系统.pdf)**
-
 ## 从Github中获取源码 
 你可以在github中访问这个项目**[Mudroid](https://github.com/LM1201/mudroid)**
 
 ## 相关视频
 
-工具原理视频
-
-<div id="youkuplayer" style="width:480px;height:400px"></div>
-<script type="text/javascript" src="//player.youku.com/jsapi">
-</script>
-<script type="text/javascript">
-var player = new YKU.Player('youkuplayer',{
-styleid: '0',
-client_id: '456f6a5dc139720b',
-vid: 'XMTc0Mzk2OTU3Ng==',
-newPlayer: true
-});
-</script>
+[工具原理视频](http://v.youku.com/v_show/id_XMzA1ODkxNzUwMA==.html?spm=a2h3j.8428770.3416059.1)
 
 
-工具演示视频
-<div id="youkuplayer2" style="width:480px;height:400px"></div>
-<script type="text/javascript" src="//player.youku.com/jsapi">
-</script>
-<script type="text/javascript">
-var player = new YKU.Player('youkuplayer2',{
-styleid: '0',
-client_id: '456f6a5dc139720b',
-vid: 'XMTc0Mzk2OTU3Ng==',
-newPlayer: true
-});
-</script>
+
+[工具演示视频](http://v.youku.com/v_show/id_XMzA1ODkxNTk5Mg==.html?spm=a2h3j.8428770.3416059.1)
+
 
 
